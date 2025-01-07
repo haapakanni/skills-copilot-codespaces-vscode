@@ -27,3 +27,4 @@ function skillsMember() {
     }
     console.log(calculateNumbers(2, 2));
     console.log(multiplyNumbers(2, 2));
+}
